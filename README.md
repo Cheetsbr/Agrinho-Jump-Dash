@@ -1,6 +1,6 @@
 Projeto "Jump Dash"
 
-Esse projeto foi feito com a ajuda de Ia, omodo de jogar é inspirado em um jogo chamado Geometry Dash.
+Esse projeto foi feito com a ajuda de IA (Inteligência Artificial), omodo de jogar é inspirado em um jogo chamado Geometry Dash.
 
 Como jogar:
 
